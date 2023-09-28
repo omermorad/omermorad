@@ -1,7 +1,6 @@
-## Hi There 👋
+## Hey There 👋
 
-### Nice to meet you!
-My name is Omer Morad, I live in Tel Aviv, Israel.
+My name is Omer, a tech lead and backend maestro specializing in Node, TypeScript, and NestJS. Beyond coding, I love sharing my knowledge as a public speaker.
+I'm on a relentless mission to push the boundaries of software engineering. Driven by this fervor, I created Automock, a clear reflection of my obsession for quality.
 
-I'm a backend-oriented developer, OOP flavored, in a distributed systems world. \
-Web artisan, TypeScript lover, open-source enthusiast, and guitar player.
+https://github.com/automock/automock
