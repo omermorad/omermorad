@@ -1,25 +1,23 @@
-# Omer Morad
+# Hi, I'm Omer Morad 👋
 
-*Open-source advocate, platform engineer, and backend developer.*  
-I’m committed to quality-focused development and the design of scalable, resilient software.
+I'm a platform engineer specializing in TypeScript, NestJS, developer experience, and backend quality. I'm a strong believer in open source and the creator of a few projects.
 
----
+Previously, I worked with companies like: [Vetric](https://vetric.io), [Incredibuild](https://incredibuild.com), [Harmonya](https://harmonya.com), [Balance](https://getbalance.com), [Cheq](https://cheq.ai) and [Natural Intelligence](https://naturalint.com).
 
-## About
-I usally work on distributed systems, developer workflows, and cloud-native architectures. I'm focusing on code integrity, automated testing, and processes that deliver maintainable, reliable systems.
+Sometimes I [write things](https://omermorad.me/blog), mostly about TypeScript, NestJS, and developer experience.
 
-As the creator of **[Suites](https://github.com/suites-dev/suites)**, a unit-testing framework, I champion strong testing practices.
+## My Open Source Projects
 
-## Focus
-- **Testing & Quality** — DI-centric, type-safe testing for TypeScript/NestJS.
-- **Developer Workflows** — CI/CD, release automation, artifact promotion, quality gates.
-- **Distributed & Cloud-Native** — reliability patterns, tracing/metrics, pragmatic scalability.
+### [Suites](https://github.com/suites-dev/suites)
 
-## Selected Open Source Projects
-- **Suites** — next-gen testing for TypeScript backends working with dependency injections
-  → `suites-dev/suites`
-- **nestjs-pact** — Pact modules for consumer/provider testing in NestJS.  
-  → `pact-foundation/nestjs-pact`
+![GitHub Stars](https://img.shields.io/github/stars/suites-dev/suites?style=flat&logo=github) ![npm downloads](https://img.shields.io/npm/dm/@suites/unit?style=flat&logo=npm) 
 
-—  
-**Say hi** → issues/PRs or LinkedIn. Open to consulting and open source collaboration.
+A unit-testing framework for TypeScript backends working with inversion of control and dependency injection.
+
+### [NestJS Pact](https://github.com/pact-foundation/nestjs-pact)
+
+![GitHub Stars](https://img.shields.io/github/stars/pact-foundation/nestjs-pact?style=flat&logo=github) ![npm downloads](https://img.shields.io/npm/dm/@pact-foundation/nestjs-pact?style=flat&logo=npm)
+
+Injectable Pact.js Consumer/Producer for NestJS contract testing.
+
+*I also do consulting work, check out [my website](https://omermorad.me) for more information.*
